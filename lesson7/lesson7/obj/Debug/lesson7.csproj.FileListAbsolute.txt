@@ -1,0 +1,10 @@
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\bin\Debug\lesson7.exe.config
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\bin\Debug\lesson7.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\bin\Debug\lesson7.pdb
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.csprojAssemblyReference.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.Form1.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.Properties.Resources.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.csproj.GenerateResource.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.csproj.CoreCompileInputs.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson7\lesson7\obj\Debug\lesson7.pdb

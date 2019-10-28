@@ -1,0 +1,10 @@
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\bin\Debug\ThirdProgramm.exe.config
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\bin\Debug\ThirdProgramm.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\bin\Debug\ThirdProgramm.pdb
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.csprojAssemblyReference.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.Form1.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.Properties.Resources.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.csproj.GenerateResource.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.csproj.CoreCompileInputs.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\les3\ThirdProgramm\ThirdProgramm\obj\Debug\ThirdProgramm.pdb

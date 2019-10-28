@@ -1,0 +1,10 @@
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\bin\Debug\HW.exe.config
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\bin\Debug\HW.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\bin\Debug\HW.pdb
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.csprojAssemblyReference.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.Form1.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.Properties.Resources.resources
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.csproj.GenerateResource.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.csproj.CoreCompileInputs.cache
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.exe
+C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\гр 3\lesson6\ForHomeworkGroup3\HW\HW\obj\Debug\HW.pdb
