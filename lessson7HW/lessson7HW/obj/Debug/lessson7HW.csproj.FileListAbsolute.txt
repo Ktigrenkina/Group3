@@ -7,3 +7,13 @@ C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\Group3\lessson7HW\lessso
 C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.csproj.CoreCompileInputs.cache
 C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.exe
 C:\Users\goner\OneDrive\Рабочий стол\Sigma-m\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.pdb
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\bin\Debug\lessson7HW.exe.config
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\bin\Debug\lessson7HW.exe
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\bin\Debug\lessson7HW.pdb
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.csprojAssemblyReference.cache
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.Form1.resources
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.Properties.Resources.resources
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.csproj.GenerateResource.cache
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.exe
+D:\Рабочий стол\папка\Group3\lessson7HW\lessson7HW\obj\Debug\lessson7HW.pdb
