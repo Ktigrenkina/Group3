@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace proba_V_2.Properties
+namespace lesson8.Properties
 {
 
 

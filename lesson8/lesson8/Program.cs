@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace proba_V_2
+namespace lesson8
 {
     static class Program
     {
